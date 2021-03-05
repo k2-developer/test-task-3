@@ -5,4 +5,4 @@
 ### **The other site of the second test task will be published in a separate repository and provided shortly**
 
 ### **First part - [Click](https://github.com/k2wln/test-task-1)**
-### **Second part(1/3 site) - [Clock](https://github.com/k2wln/test-task-2)**
+### **Second part(1/3 site) - [Click](https://github.com/k2wln/test-task-2)**
